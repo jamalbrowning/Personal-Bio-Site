@@ -1,10 +1,29 @@
 {
   "project 1": {
+    "title": "Tamagotchi",
     "screenshot": "http://gotoflashgames.com/files/file/033.jpg",
-    "description": "This is the best project",
-    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "description": "This is a short representation of the old gam Tamagotchi.",
+    "technologiesUsed": "HTML, CSS, JavaScript, Version Control with Github",
     "available": true,
     "url": "https://github.com/jamalbrowning",
-    "githubUrl": "https://github.com/jamalbrowning"
+    "githubUrl": "https://github.com/jamalbrowning/tamagotchi"
+  },
+  "project 2": {
+    "title": "test2",
+    "screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+    "description": "This is a short representation of the old gam Tamagotchi.",
+    "technologiesUsed": "HTML, CSS, JavaScript, Version Control with Github",
+    "available": true,
+    "url": "https://github.com/jamalbrowning",
+    "githubUrl": "https://github.com/jamalbrowning/tamagotchi"
+  },
+  "project 3": {
+    "title": "test3",
+    "screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+    "description": "This is a short representation of the old gam Tamagotchi.",
+    "technologiesUsed": "HTML, CSS, JavaScript, Version Control with Github",
+    "available": true,
+    "url": "https://github.com/jamalbrowning",
+    "githubUrl": "https://github.com/jamalbrowning/tamagotchi"
   }
 }
