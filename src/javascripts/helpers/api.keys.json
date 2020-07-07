@@ -1,0 +1,11 @@
+{
+  "firebaseConfig" : {
+  "apiKey": "AIzaSyA9Mn2cfR7VPJmDmPAegnlb7rGkfwWVcgo",
+  "authDomain": "personal-website-454da.firebaseapp.com",
+  "databaseURL": "https://personal-website-454da.firebaseio.com",
+  "projectId": "personal-website-454da",
+  "storageBucket": "personal-website-454da.appspot.com",
+  "messagingSenderId": "340156678407",
+  "appId": "1:340156678407:web:d936e57bff4e9c391c05a2"
+  }
+}
