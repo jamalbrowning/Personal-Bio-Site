@@ -1,0 +1,10 @@
+{
+  "project 1": {
+    "screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+    "description": "This is the best project",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "available": true,
+    "url": "https://github.com/jamalbrowning",
+    "githubUrl": "https://github.com/jamalbrowning"
+  }
+}
