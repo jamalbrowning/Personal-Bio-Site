@@ -1,23 +1,32 @@
 {
   "project 1": {
     "title": "Tamagotchi",
-    "screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+    "screenshot": "https://i.ibb.co/S3pmrgL/Screen-Shot-2020-08-15-at-1-11-08-PM.png",
     "description": "This is a short representation of the old gam Tamagotchi.",
-    "technologiesUsed": "HTML, CSS, JavaScript, Version Control with Github",
+    "technologiesUsed": "HTML, CSS, JavaScript, Version Control with Github, Webpack",
     "available": true,
     "url": "https://github.com/jamalbrowning",
     "githubUrl": "https://github.com/jamalbrowning/tamagotchi"
   },
   "project 2": {
-    "title": "test2",
+    "title": "Pan-Am",
+    "screenshot": "https://i.ibb.co/qDCTDm5/Screen-Shot-2020-08-15-at-12-24-37-PM.png",
+    "description": "This is a Crew Member functioning website, allowing employees to view and create flights for Pan-AM airways.",
+    "technologiesUsed": "HTML, SASS, JavaScript, Version Control with Github, WebPack, Firebase ",
+    "available": true,
+    "url": "https://panam-10421.web.app/",
+    "githubUrl": "https://github.com/nss-evening-cohort-12/nutshell-alces"
+  },
+  "project 3": {
+    "title": "Hogwarts",
     "screenshot": "http://gotoflashgames.com/files/file/033.jpg",
-    "description": "This is a short representation of the old gam Tamagotchi.",
+    "description": "Here is a sorting hat that sorts your typical student into their own house. Watch them get expelled",
     "technologiesUsed": "HTML, CSS, JavaScript, Version Control with Github",
     "available": true,
     "url": "https://github.com/jamalbrowning",
-    "githubUrl": "https://github.com/jamalbrowning/tamagotchi"
+    "githubUrl": "https://github.com/jamalbrowning/hogwarts"
   },
-  "project 3": {
+  "project 4": {
     "title": "test3",
     "screenshot": "http://gotoflashgames.com/files/file/033.jpg",
     "description": "This is a short representation of the old gam Tamagotchi.",

@@ -18,9 +18,9 @@ const projectBuilder = () => {
             <h2 class="title text-dark">${project.title}</h2>
           </div>
           <ul class="list-group list-group-flush">
+          <img src="${project.screenshot}" alt="">
             <li class="list-group-item">${project.description}</li>
             <li class="list-group-item">${project.technologiesUsed}</li>
-            <li class="list-group-item">Vestibulum at eros</li>
             <li class="anchor-projects"><a href="${project.githubUrl}" class="card-link" target="_blank"><i class="fab fa-github-square fa-3x"></i></a></button></li>
           </ul>
         </div>`;
